@@ -22,8 +22,8 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 """
-from collections import OrderedDict
 from __future__ import absolute_import, unicode_literals, print_function
+from collections import OrderedDict
 
 import io
 import os
